@@ -8,19 +8,23 @@
 .grid_element1 {
     width: 200px;
     height: 200px;
+    background-color: red;
 }
 
 .grid_element2 {
     width: 200px;
     height: 200px;
+    background-color: blue;
 }
 
 .grid_element3 {
     width: 200px;
     height: 200px;
+    background-color: green;
 }
 
 .grid_element4 {
     width: 200px;
     height: 200px;
+    background-color: yellow;
 }
