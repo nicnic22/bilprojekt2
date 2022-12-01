@@ -1,0 +1,16 @@
+.tesla_h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.tesla_h1 > h1 {
+    font-size: 5rem;
+    background: linear-gradient(341deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    color: whitesmoke;
+    padding: 5px 50px 5px 50px;
+    border-radius: 10px;
+    
+    box-shadow: 0px 0px 50px 10px violet;
+}
+
+
