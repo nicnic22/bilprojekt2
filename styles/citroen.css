@@ -10,14 +10,17 @@ img {
 .center {
     display:flex;
     justify-content: center;
+    width: 100%;
+    height: auto;
 }
 .grid_1-1-1-1 {
     display: inline-grid;
     grid-template-columns: repeat(4, 24%);
     grid-template-rows: 100px;
     gap: 4%;
-    width: 800px;
-    height: 200px;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
 }
 .grid_element1 {
     width: 100%;
