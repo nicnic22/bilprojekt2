@@ -21,6 +21,7 @@ img {
     width: 100%;
     height: 100%;
     justify-content: center;
+    margin: 0 100px 0 100px;
 }
 .grid_element1 {
     width: 100%;
