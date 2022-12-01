@@ -4,3 +4,23 @@
     grid-template-rows: 100px;
     gap: 20px;
 }
+
+.grid_element1 {
+    width: 200px;
+    height: 200px;
+}
+
+.grid_element2 {
+    width: 200px;
+    height: 200px;
+}
+
+.grid_element3 {
+    width: 200px;
+    height: 200px;
+}
+
+.grid_element4 {
+    width: 200px;
+    height: 200px;
+}
